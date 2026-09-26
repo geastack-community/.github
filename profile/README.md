@@ -2,7 +2,7 @@
 
 # GeaStack Community
 
-![Logo Ascii Art](../images/logo-ascii-art.png)
+![Logo Ascii Art](https://raw.githubusercontent.com/geastack-community/.github/main/images/logo-ascii-art.png)
 
 > Geastack Community is an independent community project and is not
 > affiliated with or endorsed by Gea. Gea has granted permission for the
