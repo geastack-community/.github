@@ -20,7 +20,7 @@
 We are primarily developing the following for GeaStack:
 * [Ecosystem](https://github.com/geastack-community/ecosystem): Functionality Enhancement Mixins.
 * [Mixin Template](https://github.com/geastack-community/mixin-template): In GeaStack, what is the most practical way to write mixins? Here is our answer.
-* [geapbt](https://github.com/geastack-community/geapbt): You can easily integrate PBT testing with Vitest, Jest, and other testing tools. Test `Component`, `Store`, Mixins, and more quickly to ensure robustness.
+* [geapbt](https://github.com/geastack-community/geapbt): Property-based testing helpers (powered by fast-check) for Gea `Component`s, `Store`s, and mixins — generate randomized inputs and interaction sequences to find edge cases quickly.
 
 ## License
 
